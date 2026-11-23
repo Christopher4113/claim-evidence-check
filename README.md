@@ -8,7 +8,7 @@ Prototype by Christopher Lam. Not affiliated with Stacktrace.
 
 ![The finding as it lands in the replay](docs/finding.gif)
 
-Demo video: `takes/demo-final.mp4` (59 s, recorded from the UI; recipe in [tools/demo/](tools/demo/README.md)).
+Demo video: [docs/demo.mp4](docs/demo.mp4) (59 s, recorded from the UI; recipe in [tools/demo/](tools/demo/README.md)).
 
 ## Results
 
