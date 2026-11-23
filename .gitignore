@@ -1,0 +1,15 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+node_modules/
+web/dist/
+demo_repos/*/node_modules/
+demo_repos/*/.pytest_cache/
+scripts/out/
+scripts/steer_settings.json
+sessions/.*.json
+sessions/heldout/.*.json
+.claude/settings.local.json
+takes/

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "duration": 12.975000000000001,
+  "segments": [
+    {
+      "source": "../takes/demo.mp4",
+      "source_start": 8.826,
+      "source_end": 21.801000000000002,
+      "start": 0.0,
+      "end": 12.975000000000001
+    }
+  ]
+}
